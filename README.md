@@ -1,0 +1,5 @@
+- 👋 Hi, I’m amina
+- 👀 I’m interested in Java programming
+- 💞️ I’m looking to collaborate on any project or research work related to Java
+- 📫 How to reach me: Linkedin - Amina Sokoli
+- 😄 Pronouns: she/her
